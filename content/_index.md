@@ -1,6 +1,6 @@
 ---
 hero:
-  heading: Novela, the simplest way to start publishing with Hugo and Forestry.
+  heading: Hi, I'm Pranav. I'm a Biology and Computer Science undergraduate from India.
   maxWidthPX: 652
 seo:
   image: /images/hero-2.jpg
