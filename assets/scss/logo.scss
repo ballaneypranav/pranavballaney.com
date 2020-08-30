@@ -1,0 +1,40 @@
+#logo-desktop {
+  .change-fill {
+    fill: var(--primary);
+  }
+
+  color: var(--articleText);
+  font-family: var(--sanserif);
+  font-size: 1.8rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.15rem;
+  border-bottom: 1px var(--articleText) solid;
+  transition: border 0.3s ease;
+
+  &:hover {
+    border-bottom-color: #f84816;
+  }
+}
+
+#logo-mobile {
+  path {
+    fill: var(--primary);
+  }
+  color: var(--articleText);
+  font-family: var(--serif);
+  font-size: 2.5rem;
+  font-weight: 500;
+  span {
+    font-weight: 700;
+  }
+}
+
+@media screen and (max-width: 735px) {
+  .Logo__Desktop {
+    display: none;
+  }
+  .Logo__Mobile {
+    display: block;
+  }
+}
