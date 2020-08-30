@@ -13,7 +13,7 @@
   transition: border 0.3s ease;
 
   &:hover {
-    border-bottom-color: #f84816;
+    border-bottom-color: var(--logoAccent);
   }
 }
 
