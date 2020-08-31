@@ -9,7 +9,8 @@ $desktop_large: 1440px;
 
 body{
     /*FONTS*/
-    --serif: "Merriweather", Georgia, Serif;
+    --serif-title: "Playfair Display", Georgia, serif;
+    --serif: "Merriweather", Georgia, serif;
     --sanserif: "Lato", sans-serif;
     --monospace: "Operator Mono", Consolas, Menlo, Monaco, source-code-pro, Courier New, monospace;
 
@@ -20,7 +21,8 @@ body{
     --primary: #000;
     --secondary: #73737D;
     --grey: #73737D;
-    --background-color: #fafafa;
+    // --background-color: #fafafa;
+    // --background-color: #ffffff;
     --accent: #f84816;
     --logoAccent: #f84816;
     --hover: rgba(0, 0, 0, 0.07);
