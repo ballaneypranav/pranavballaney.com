@@ -1,6 +1,10 @@
 ---
 hero:
-  heading: Hi, I'm Pranav. I'm a Biology and Computer Science undergraduate from India.
+  heading: Hello, world. 
+  about: |
+    I'm Pranav Ballaney. I currenty study Biology and Computer Science at BITS Pilani, Goa.
+     
+  
   maxWidthPX: 652
 seo:
   image: /images/hero-2.jpg
